@@ -1,0 +1,3 @@
+if not exist app mkdir app
+(echo ^<h1^>DevOps Pipeline^</h1^>) > app\index.html
+(echo ^<p^>Application deployed successfully!^</p^>) >> app\index.html
